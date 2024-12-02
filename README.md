@@ -1,4 +1,4 @@
-# 🪐 Resolução da Lista 02 de atividades 
+# 🪐 Resolução da Lista 03 de atividades 
 
 ## ✨ Apresentação:
 
