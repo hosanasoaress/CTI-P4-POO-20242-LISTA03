@@ -2,7 +2,7 @@
 
 ## ✨ Apresentação:
 
-O determinado repositório inclui a resolução da lista 03 de atividades, do capítulo 6 e 8 da apostila, proposta na disciplina de Programação Orientada a Objetos, ensinada pelo professor Roger Moura Sarmento, do IFCE campus Maranguape. Este repositório oferece soluções para uma variedade de desafios de programação em Java, com foco nos princípios essenciais de design de algoritmos e estruturas de dados, sendo realizados para o aprimoramento de habilidades de codificação e raciocínio lógico, destacando o uso de estruturas sequenciais para executar tarefas de forma eficiente.
+O determinado repositório inclui a resolução da lista 03 de atividades, do capítulo 6, em que é trabalhado o conteúdo de Vetores em Algoritmos, e o capítulo 8 da apostila, em que é trabalhado as Sub-rotinas (programação modularizada), proposta na disciplina de Programação Orientada a Objetos, ensinada pelo professor Roger Moura Sarmento, do IFCE campus Maranguape. Este repositório oferece soluções para uma variedade de desafios de programação em Java, com foco nos princípios essenciais de design de algoritmos e estruturas de dados, sendo realizados para o aprimoramento de habilidades de codificação e raciocínio lógico, destacando o uso de estruturas sequenciais para executar tarefas de forma eficiente.
 
 -------
 ## 🛸 Objetivo:
